@@ -1,0 +1,17 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    cursor: pointer;
+    margin: 0.3em;
+    background-color: rgb(162, 83, 93);
+    color: #fff;
+}
+
+.wrapper{
+    background-color: #ceb2b2;
+    border-radius: 1em;
+    padding: 1.5em;
+}
